@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project showcases my frontend development skills through a responsive, clean, and modern portfolio website. The website includes various sections such as an introduction, an "About" section, a showcase of past projects, and a contact section.
+Simple Portfolio using HTML and CSS.
 
 ## Features
 
@@ -23,4 +23,8 @@ To view the portfolio website locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   https://github.com/Elizabethyonas/InterTechub-frontend.git
+2. Right click on the HTML code and navigate to open with live server
+
+## This project is deployed on github pages
+https://elizabethyonas.github.io/InterTechub-frontend/
